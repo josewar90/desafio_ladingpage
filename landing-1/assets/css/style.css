@@ -1,0 +1,97 @@
+header {
+    background-image: url(../img/quesillo.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(244, 30, 212);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    margin: 1rem;
+    height: 100%;
+    font-size: 3rem;
+    font-family: cursive;
+    text-shadow: 3px 3px 0 white;
+    width: 220vh;
+
+}
+
+body {
+    background-image: url(https://i.pinimg.com/564x/bf/49/c6/bf49c66100b91e1da4221cef201ffbbc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1cm;
+    margin: 1cm;
+    border: 1cm;
+
+}
+
+
+
+
+.divh2 {
+
+    display: flex;
+    font-size: 1.8rem;
+    font-style: italic;
+    vertical-align: middle;
+    padding: 40px;
+    color: rgb(8, 148, 236);
+    text-shadow: 3px 3px 0 rgb(14, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.img {
+    display: flex;
+    margin: 5rem;
+    padding: 3rem;
+    vertical-align: middle;
+    height: 75%;
+    width: 50%;
+}
+
+
+
+.redes {
+    text-align: center;
+    display: flex;
+    padding: 1cm;
+    border: 1cm;
+    margin: 1cm;
+    height: 100px;
+    background-color: rgb(244, 23, 148);
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif font-size 1rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(237, 18, 200);
+    
+
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    margin: 70px;
+    text-align: center;
+    height: 100vh;
+}
+
+.parrafo {
+    text-shadow: 3px 3px 0 rgb(247, 247, 249);
+    font-size: 1.6rem;
+    color: rgb(3, 1, 7);
+}
